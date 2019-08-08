@@ -1,15 +1,16 @@
 package codingpatterns.slidingwindow;
 
 
-import java.util.Arrays;
-
 /***
  * PS: Given an array, find the average of all subarrays of size ‘K’ in it.
  *  A brute force solution would be for this problem to calculate
  *  sum of every K elements and divide by K to find the average.
+ *
  *  Time Complexity : O(N∗K)
  *   ** How We can improve this ? **
  */
+import java.util.Arrays;
+
 
 public class AverageOfSubArrayOfSizeKBrute {
 
