@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44075b9-6f08-4a92-a841-f392dbd843aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/CharacterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/CharacterReplacementBrute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/MaxFruitCountOf2Types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/MaxFruitCountOf2TypesBrute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/NoRepeatSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/NoRepeatSubstringBrute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnesBrute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/codingpatterns/slidingwindow/CharacterReplacementBrute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/codingpatterns/slidingwindow/CharacterReplacementBrute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnesBrute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnesBrute.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -82,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/NoRepeatSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="31">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -101,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/CharacterReplacementBrute.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="269">
-              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,20 +105,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="315">
+              <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnesBrute.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="127">
+              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -139,8 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/NoRepeatSubstringBrute.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="191">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -174,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/NoRepeatSubstring.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/CharacterReplacementBrute.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnesBrute.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnes.java" />
       </list>
     </option>
   </component>
@@ -279,7 +276,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565372218061" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565562453988" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
@@ -299,35 +296,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CharacterReplacementBrute">
+  <component name="RunManager" selected="Application.ReplacingOnes">
     <configuration name="CharacterReplacementBrute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingpatterns.slidingwindow.CharacterReplacementBrute" />
-      <module name="coding-patterns.coding-pattern-problem.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingpatterns.slidingwindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxFruitCountOf2Types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingpatterns.slidingwindow.MaxFruitCountOf2Types" />
-      <module name="coding-patterns.coding-pattern-problem.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingpatterns.slidingwindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxFruitCountOf2TypesBrute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingpatterns.slidingwindow.MaxFruitCountOf2TypesBrute" />
       <module name="coding-patterns.coding-pattern-problem.main" />
       <extension name="coverage">
         <pattern>
@@ -365,13 +336,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReplacingOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingpatterns.slidingwindow.ReplacingOnes" />
+      <module name="coding-patterns.coding-pattern-problem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingpatterns.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplacingOnesBrute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingpatterns.slidingwindow.ReplacingOnesBrute" />
+      <module name="coding-patterns.coding-pattern-problem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingpatterns.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReplacingOnes" />
+        <item itemvalue="Application.ReplacingOnesBrute" />
         <item itemvalue="Application.CharacterReplacementBrute" />
         <item itemvalue="Application.NoRepeatSubstring" />
         <item itemvalue="Application.NoRepeatSubstringBrute" />
-        <item itemvalue="Application.MaxFruitCountOf2Types" />
-        <item itemvalue="Application.MaxFruitCountOf2TypesBrute" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +402,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="SonarLint" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" weight="0.32866243" />
@@ -415,7 +412,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866243" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -525,24 +522,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/NoRepeatSubstringBrute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/MinSizeSubArraySum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="22" column="28" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/NoRepeatSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
@@ -556,24 +539,38 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/CharacterReplacementBrute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
-          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/NoRepeatSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="31">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/NoRepeatSubstringBrute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnesBrute.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="127">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/ReplacingOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
         </state>
       </provider>
     </entry>
