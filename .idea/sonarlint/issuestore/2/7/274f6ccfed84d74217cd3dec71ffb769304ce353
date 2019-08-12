@@ -1,0 +1,10 @@
+
+Gsquid:S1481")Remove this unused "left" local variable.(ÕÌÀ8òäš­Ç-
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÖŒÿÿ8øÁ–­Ç-
+…squid:S1192-"bDefine a constant instead of duplicating this literal "Length of the longest substring: " 3 times.(ˆ¥Şßÿÿÿÿÿ8øÁ–­Ç-
+?squid:S1659"!Declare "max" on a separate line.(ÕÌÀ8ëÛ•­Ç-
+U
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÃªöG8øÁ–­Ç-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ˆ¥Şßÿÿÿÿÿ8øÁ–­Ç-
