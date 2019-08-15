@@ -9,13 +9,25 @@ package codingpatterns.twopointers;
  */
 public class SortedSquares {
     private static int[] sortedSquare(int[] array) {
-        int[] squares = new int[array.length];
+        int len = array.length - 1;
+        int[] squares = new int[len+1];
+        int left = 0;
+        int right = len -1;
+        int maxIndex = len;
+        while (left <= right) {
+            int leftSquare = array[left] * array[left];
+            int rightSquare = array[right]* array[right];
 
+            if (leftSquare > rightSquare) {
+                squares[len--] = leftSquare;
+                left++;
+            } else {
+                squares[len--] = rightSquare;
+                right--;
+            }
 
-
-
+        }
         return squares;
-
 
     }
 

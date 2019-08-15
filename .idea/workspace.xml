@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44075b9-6f08-4a92-a841-f392dbd843aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/treedfs/CountAllPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/treedfs/GivenSequencePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/treedfs/SumOfPathNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/PairWithTargetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/RemoveKey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07a849b822ceba0067c82228a69e3d7b03d91fa1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07a849b822ceba0067c82228a69e3d7b03d91fa1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/274f6ccfed84d74217cd3dec71ffb769304ce353" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/274f6ccfed84d74217cd3dec71ffb769304ce353" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79873c613154ce57a6f2fa4affec4fae7bff9b12" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79873c613154ce57a6f2fa4affec4fae7bff9b12" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79be9b3cf4be06f3123f7e3fb625c73c16338264" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91d4406f7cdd13c8780949928390ed25b033a67a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91d4406f7cdd13c8780949928390ed25b033a67a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/SortedSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/SortedSquares.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -114,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/SortedSquares.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="185">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -195,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/PairWithTargetSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/RemoveKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/SortedSquares.java" />
       </list>
     </option>
   </component>
@@ -262,7 +252,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565791068820" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565865327926" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -282,20 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveKey">
-    <configuration name="GivenSequencePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingpatterns.treedfs.GivenSequencePath" />
-      <module name="coding-patterns.coding-pattern-problem.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingpatterns.treedfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SortedSquares">
     <configuration name="PairWithTargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingpatterns.twopointers.PairWithTargetSum" />
       <module name="coding-patterns.coding-pattern-problem.main" />
@@ -335,6 +312,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortedSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingpatterns.twopointers.SortedSquares" />
+      <module name="coding-patterns.coding-pattern-problem.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingpatterns.twopointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfPathNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingpatterns.treedfs.SumOfPathNumbers" />
       <module name="coding-patterns.coding-pattern-problem.main" />
@@ -350,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortedSquares" />
         <item itemvalue="Application.RemoveKey" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.PairWithTargetSum" />
         <item itemvalue="Application.SumOfPathNumbers" />
-        <item itemvalue="Application.GivenSequencePath" />
       </list>
     </recent_temporary>
   </component>
@@ -397,6 +387,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -407,14 +398,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32771084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32771084" />
       <window_info anchor="bottom" id="SonarLint" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34698796" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34698796" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
@@ -795,6 +786,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/SortedSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
         </state>
       </provider>
     </entry>
