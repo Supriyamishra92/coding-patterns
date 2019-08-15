@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44075b9-6f08-4a92-a841-f392dbd843aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/treebfs/MinimumBinaryTreeDepth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/StringAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/StringAnagrams.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,15 +46,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/RemoveKey.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/SortedSquares.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +106,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/StringAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+            <state relative-caret-position="51">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/treebfs/MinimumBinaryTreeDepth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -188,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/twopointers/TripletSumToZero.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/StringPermutation.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/StringAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codingpatterns/treebfs/MinimumBinaryTreeDepth.java" />
       </list>
     </option>
   </component>
@@ -245,7 +249,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="codingpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="slidingwindow" type="462c0819:PsiDirectoryNode" />
+              <item name="treebfs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coding-pattern-problem" type="b2602c69:ProjectViewProjectNode" />
@@ -264,7 +268,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565876308196" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565880769734" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -284,13 +288,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringAnagrams">
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingpatterns.twopointers.RemoveDuplicates" />
+  <component name="RunManager" selected="Application.MinimumBinaryTreeDepth">
+    <configuration name="MinimumBinaryTreeDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingpatterns.treebfs.MinimumBinaryTreeDepth" />
       <module name="coding-patterns.coding-pattern-problem.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingpatterns.twopointers.*" />
+          <option name="PATTERN" value="codingpatterns.treebfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumBinaryTreeDepth" />
         <item itemvalue="Application.StringAnagrams" />
         <item itemvalue="Application.TripletSumToZero" />
         <item itemvalue="Application.SortedSquares" />
         <item itemvalue="Application.RemoveKey" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +405,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -410,14 +414,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32771084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32771084" />
       <window_info anchor="bottom" id="SonarLint" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34698796" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34698796" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
@@ -481,6 +485,14 @@
           <line>90</line>
           <properties />
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/codingpatterns/treebfs/MinimumBinaryTreeDepth.java</url>
+          <line>40</line>
+          <properties class="codingpatterns.treebfs.MinimumBinaryTreeDepth" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -816,8 +828,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/StringAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        <state relative-caret-position="51">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/treebfs/MinimumBinaryTreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
