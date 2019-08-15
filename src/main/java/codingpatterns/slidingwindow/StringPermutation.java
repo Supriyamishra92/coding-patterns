@@ -61,4 +61,10 @@ public class StringPermutation {
         }
         return false;
     }
+    public static void main(String[] args) {
+        System.out.println("Permutation exist: " + StringPermutation.check("oidbcaf", "abc"));
+        System.out.println("Permutation exist: " + StringPermutation.check("odicf", "dc"));
+        System.out.println("Permutation exist: " + StringPermutation.check("bcdxabcdy", "bcdyabcdx"));
+        System.out.println("Permutation exist: " + StringPermutation.check("aaacb", "abc"));
+    }
 }
