@@ -1,6 +1,6 @@
 
 \squid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ÞÈ†üúÿÿÿÿ8¹‡‹ÀÇ-
 [
-squid:S106+"9Replace this use of System.out or System.err by a logger.(¿¶Š‘ýÿÿÿÿ8Šùâ•È-
-[
 squid:S106,"9Replace this use of System.out or System.err by a logger.(Àµ¸Ôþÿÿÿÿ8ëù¦¾Ç-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¿¶Š‘ýÿÿÿÿ8Šùâ•È-

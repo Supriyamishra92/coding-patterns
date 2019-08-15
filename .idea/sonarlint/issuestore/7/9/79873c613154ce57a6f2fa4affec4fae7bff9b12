@@ -1,8 +1,8 @@
 
-[
-squid:S106$"9Replace this use of System.out or System.err by a logger.(åÙëãşÿÿÿÿ8†ÇÒ­Ç-
+…squid:S1192#"bDefine a constant instead of duplicating this literal "Length of the longest substring: " 3 times.(èÈ†Òøÿÿÿÿ8†ÇÒ­Ç-
 [
 squid:S106#"9Replace this use of System.out or System.err by a logger.(èÈ†Òøÿÿÿÿ8†ÇÒ­Ç-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(åÙëãşÿÿÿÿ8†ÇÒ­Ç-
 V
 squid:S106%"9Replace this use of System.out or System.err by a logger.(Ù¼›8†ÇÒ­Ç-
-…squid:S1192#"bDefine a constant instead of duplicating this literal "Length of the longest substring: " 3 times.(èÈ†Òøÿÿÿÿ8†ÇÒ­Ç-
