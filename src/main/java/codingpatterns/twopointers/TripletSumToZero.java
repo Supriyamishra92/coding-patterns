@@ -11,6 +11,14 @@ import java.util.ListIterator;
  * Input: [-3, 0, 1, 2, -1, 1, -2]
  * Output: [-3, 1, 2], [-2, 0, 2], [-2, 1, 1], [-1, 0, 1]
  * Explanation: There are four unique triplets whose sum is equal to zero.
+ *
+ * Sorting the array will take O(N * logN)O(N∗logN). The searchPair() function will take O(N)O(N).
+ * As we are calling searchPair() for every number in the input array, this means that overall searchTriplets()
+ * will take O(N * logN + N^2)O(N∗logN+N
+ * ​2
+ * ​​ ), which is asymptotically equivalent to O(N^2)O(N
+ * ​2
+ * ​​ ).
  */
 
 public class TripletSumToZero {
