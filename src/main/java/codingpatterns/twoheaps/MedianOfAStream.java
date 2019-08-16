@@ -22,7 +22,6 @@ public class MedianOfAStream {
 
     }
 
-
     public  void insertNum(int num) {
         if (maxHeap.isEmpty() || maxHeap.peek() >= num) {
             maxHeap.add(num);

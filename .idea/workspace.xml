@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f44075b9-6f08-4a92-a841-f392dbd843aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/SlidingWindowMedian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/MedianOfAStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/MedianOfAStream.java" afterDir="false" />
     </list>
@@ -127,11 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/MedianOfAStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+            <state relative-caret-position="-7">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,11 +140,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/slidingwindow/AverageOfSubArrayOfSizeKBrute.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/SlidingWindowMedian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="212">
+              <caret line="38" column="83" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -209,6 +213,9 @@
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/treebfs/LevelOrderSuccessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/treebfs/ConnectLevelSiblings.java" />
         <option value="$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/MedianOfAStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/findSlidingWindowMedian.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/SlidingWindowMedian" />
+        <option value="$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/SlidingWindowMedian.java" />
       </list>
     </option>
   </component>
@@ -259,6 +266,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="codingpatterns" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="coding-pattern-problem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-pattern-problem" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codingpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="twoheaps" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -267,7 +283,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565988072509" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565997072638" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -287,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MedianOfAStream">
+  <component name="RunManager" selected="Application.SlidingWindowMedian">
     <configuration name="ConnectLevelSiblings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codingpatterns.treebfs.ConnectLevelSiblings" />
       <module name="coding-patterns.coding-pattern-problem.main" />
@@ -340,12 +356,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZigzagTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingpatterns.treebfs.ZigzagTraversal" />
+    <configuration name="SlidingWindowMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingpatterns.twoheaps.SlidingWindowMedian" />
       <module name="coding-patterns.coding-pattern-problem.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codingpatterns.treebfs.*" />
+          <option name="PATTERN" value="codingpatterns.twoheaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,11 +371,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SlidingWindowMedian" />
         <item itemvalue="Application.MedianOfAStream" />
         <item itemvalue="Application.ConnectLevelSiblings" />
         <item itemvalue="Application.LevelOrderSuccessor" />
         <item itemvalue="Application.LevelAverages" />
-        <item itemvalue="Application.ZigzagTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -890,8 +906,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/MedianOfAStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+        <state relative-caret-position="-7">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codingpatterns/twoheaps/SlidingWindowMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="38" column="83" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="83" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
