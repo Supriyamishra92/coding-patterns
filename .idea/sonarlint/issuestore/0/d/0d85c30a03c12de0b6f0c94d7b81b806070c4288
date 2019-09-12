@@ -1,6 +1,6 @@
 
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Ã¿›ˆÿÿÿÿÿ8¨áËºÈ-
 Xsquid:UselessImportCheck".Remove this unused import 'java.util.TreeSet'.(½îB8§ÑÏºÈ-
 [
 squid:S1060"9Replace this use of System.out or System.err by a logger.(¾½½ıÿÿÿÿ8¨áËºÈ-
-[
-squid:S106/"9Replace this use of System.out or System.err by a logger.(Ã¿›ˆÿÿÿÿÿ8¨áËºÈ-

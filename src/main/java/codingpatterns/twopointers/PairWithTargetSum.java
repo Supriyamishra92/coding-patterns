@@ -16,7 +16,7 @@ public class PairWithTargetSum {
         int left = 0;
         int right = array.length -1;
 
-        while (left <right) {
+        while (left < right) {
             // comparing two value in array can cause indexOverFlow so to avoid it we can use the targetDiff
             int targetDiff = targetSum - array[left];
 

@@ -1,2 +1,6 @@
 
-^squid:S2094"BRemove this empty class, write its code or make it an "interface".(âé®èúÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÌª8ß‡õªÉ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(èÛÊï8ß‡õªÉ-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(„ã™ıÿÿÿÿ8Ã•Ô«É-

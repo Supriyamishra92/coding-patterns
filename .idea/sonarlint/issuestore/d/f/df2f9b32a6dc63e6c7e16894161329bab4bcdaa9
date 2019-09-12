@@ -1,0 +1,7 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8Ý²ñ¦É-
+csquid:UselessImportCheck"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊþÿÿÿÿ8Ý²ñ¦É-
+V
+squid:S106B"9Replace this use of System.out or System.err by a logger.(öÏ•€8Ùàî§É-
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(à üÓþÿÿÿÿ8Œ–È¨É-

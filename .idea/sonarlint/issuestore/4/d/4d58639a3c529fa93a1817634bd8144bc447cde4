@@ -1,2 +1,13 @@
 
-Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(Š€Ä«
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ï–½úÿÿÿÿ8¿³ÏªÉ-
+qsquid:S1192A"TDefine a constant instead of duplicating this literal "Permutation exist: " 4 times.(ßÆ¨i8¿³ÏªÉ-
+U
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ßÆ¨i8¿³ÏªÉ-
+Psquid:S1481"2Remove this unused "windowPattern" local variable.(Ú¢8ÕÖœ©É-
+_squid:S1854"ARemove this useless assignment to local variable "windowPattern".(Ú¢8ù„©É-
+V
+squid:S106B"9Replace this use of System.out or System.err by a logger.(´É™¢8¿³ÏªÉ-
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(Ù±ÖÓùÿÿÿÿ8¿³ÏªÉ-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Àî¥¶ıÿÿÿÿ8˜à©É-

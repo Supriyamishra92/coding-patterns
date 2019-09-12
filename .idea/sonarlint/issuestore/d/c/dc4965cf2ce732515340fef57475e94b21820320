@@ -1,0 +1,11 @@
+
+Psquid:S1481"-Remove this unused "maxIndex" local variable.(¡‰Ø¥ÿÿÿÿÿ8¡žÖ¦É-
+_squid:S1854"<Remove this useless assignment to local variable "maxIndex".(¡‰Ø¥ÿÿÿÿÿ8¡žÖ¦É-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¬ñé‡þÿÿÿÿ8ß·­ƒÉ-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¬ñé‡þÿÿÿÿ8ß·­ƒÉ-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ß·­ƒÉ-
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ß·­ƒÉ-
